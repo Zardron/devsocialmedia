@@ -6,6 +6,10 @@ import SideBar from '../../components/sidebar/SideBar'
 import TopBar from '../../components/topbar/TopBar'
 
 class Homes extends Component {
+    constructor(props) {
+        super(props);
+    }
+
     render() {
         return (
             <>

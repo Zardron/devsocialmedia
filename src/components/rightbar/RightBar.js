@@ -34,19 +34,19 @@ export default function Rightbar({ profile }) {
     const ProfileRightbar = () => {
         return (
             <>
-                <h4 className="rightbarTitle">User information</h4>
+                <h4 className="rightbarTitle">Intro</h4>
                 <div className="rightbarInfo">
                     <div className="rightbarInfoItem">
-                        <span className="rightbarInfoKey">City:</span>
-                        <span className="rightbarInfoValue">New York</span>
+                        <span className="rightbarInfoKey"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/M0Wls5DHC-A.png?_nc_eui2=AeEEen70RO4S2FaBm9M-2I2GJ2zClzTV8jMnbMKXNNXyMyHK5I1bJ3Ho3qokNSNc7IX8tOybfxADmEbKZlIbf2Wm" alt="" /></span>
+                        <span className="rightbarInfoValue">Web Application Developer at Ninety Six Back Operation Services</span>
                     </div>
                     <div className="rightbarInfoItem">
-                        <span className="rightbarInfoKey">From:</span>
-                        <span className="rightbarInfoValue">Madrid</span>
+                        <span className="rightbarInfoKey"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/M0Wls5DHC-A.png?_nc_eui2=AeEEen70RO4S2FaBm9M-2I2GJ2zClzTV8jMnbMKXNNXyMyHK5I1bJ3Ho3qokNSNc7IX8tOybfxADmEbKZlIbf2Wm" alt="" /></span>
+                        <span className="rightbarInfoValue">Web Application Developer at Ninety Six Back Operation Services</span>
                     </div>
                     <div className="rightbarInfoItem">
-                        <span className="rightbarInfoKey">Relationship:</span>
-                        <span className="rightbarInfoValue">Single</span>
+                        <span className="rightbarInfoKey"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/M0Wls5DHC-A.png?_nc_eui2=AeEEen70RO4S2FaBm9M-2I2GJ2zClzTV8jMnbMKXNNXyMyHK5I1bJ3Ho3qokNSNc7IX8tOybfxADmEbKZlIbf2Wm" alt="" /></span>
+                        <span className="rightbarInfoValue">Web Application Developer at Ninety Six Back Operation Services</span>
                     </div>
                 </div>
                 <h4 className="rightbarTitle">User friends</h4>
