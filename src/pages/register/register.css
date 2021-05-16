@@ -87,3 +87,7 @@
   padding: 15px;
   text-decoration: none;
 }
+
+.registerButton:hover {
+  text-decoration: none;
+}

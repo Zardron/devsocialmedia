@@ -22,6 +22,10 @@
   text-decoration: none;
 }
 
+.logo:hover {
+  text-decoration: none;
+}
+
 .topbarCenter {
   flex: 7;
 }
