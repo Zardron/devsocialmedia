@@ -1,57 +1,57 @@
 export const Users = [
     {
         id: 1,
-        profilePicture: "https://i.pinimg.com/736x/bf/82/84/bf8284da74ce80105dc91d6eeeb4540c.jpg",
+        profilePicture: "person/1.jpg",
         username: "Lana Rhoades",
     },
     {
         id: 2,
-        profilePicture: "https://i.pinimg.com/originals/ee/b1/9f/eeb19f4a2a3ba58cbbf0a9b825d4b436.png",
+        profilePicture: "person/2.jpg",
         username: "Eva Elfie",
     },
     {
         id: 3,
-        profilePicture: "https://i1.sndcdn.com/avatars-000751643161-2qcdua-t500x500.jpg",
+        profilePicture: "person/3.jpg",
         username: "Lexi Lore",
     },
     {
         id: 4,
-        profilePicture: "https://64.media.tumblr.com/ed2d88b0c75bb875d821ca5a3dfcf412/a8b94edbe349016a-7d/s640x960/54cb49cecf6588e857f46d2532783c9485feafbf.jpg",
+        profilePicture: "person/4.jpg",
         username: "Blair Williams",
     },
     {
         id: 5,
-        profilePicture: "https://pbs.twimg.com/media/Ef_SFtEWkAItXta.jpg",
+        profilePicture: "person/5.jpg",
         username: "Emily Wilis",
     },
     {
         id: 6,
-        profilePicture: "https://i.pinimg.com/originals/82/79/4e/82794eea90603b9b72b4defb2b2dfd8e.jpg",
+        profilePicture: "person/6.jpg",
         username: "Gabbie Carter",
     },
     {
         id: 7,
-        profilePicture: "https://starktimes.com/wp-content/uploads/2021/01/Kimmy-Granger.jpg",
+        profilePicture: "person/7.jpg",
         username: "Kimmy Granger",
     },
     {
         id: 8,
-        profilePicture: "https://pbs.twimg.com/media/EX-ovqdXQAA-y0H.jpg",
+        profilePicture: "person/8.jpg",
         username: "Elsa Jean",
     },
     {
         id: 9,
-        profilePicture: "https://i.pinimg.com/474x/51/88/3e/51883e58187df7fcf9efcd7b0aa18b73.jpg",
+        profilePicture: "person/9.jpg",
         username: "Eliza Ibarra",
     },
     {
         id: 10,
-        profilePicture: "https://pbs.twimg.com/media/ESoJibFWAAEBoyy.jpg",
+        profilePicture: "person/10.jpg",
         username: "Emily Grey",
     },
     {
         id: 11,
-        profilePicture: "https://i.pinimg.com/originals/cc/37/86/cc378696b60527e2c57ec4ec9ddfe390.jpg",
+        profilePicture: "person/11.jpg",
         username: "Liya Silver",
     }
 ];
@@ -60,7 +60,7 @@ export const Posts = [
     {
         id: 1,
         desc: "#FeelingFresh",
-        photo: "https://i1.sndcdn.com/avatars-000751643161-2qcdua-t500x500.jpg",
+        photo: "person/3.jpg",
         date: "5 mins ago",
         userId: 3,
         like: 734,
@@ -68,7 +68,7 @@ export const Posts = [
     },
     {
         id: 2,
-        photo: "assets/post/2.jpeg",
+        photo: "post/2.jpeg",
         date: "15 mins ago",
         userId: 2,
         like: 2,
@@ -77,7 +77,7 @@ export const Posts = [
     {
         id: 3,
         desc: "Every moment is a fresh beginning.",
-        photo: "assets/post/3.jpeg",
+        photo: "post/3.jpeg",
         date: "1 hour ago",
         userId: 3,
         like: 61,
@@ -85,7 +85,7 @@ export const Posts = [
     },
     {
         id: 4,
-        photo: "assets/post/4.jpeg",
+        photo: "post/4.jpeg",
         date: "4 hours ago",
         userId: 4,
         like: 7,
@@ -93,7 +93,7 @@ export const Posts = [
     },
     {
         id: 5,
-        photo: "assets/post/5.jpeg",
+        photo: "post/5.jpeg",
         date: "5 hours ago",
         userId: 5,
         like: 23,
@@ -101,7 +101,7 @@ export const Posts = [
     },
     {
         id: 6,
-        photo: "assets/post/6.jpeg",
+        photo: "post/6.jpeg",
         date: "1 day ago",
         userId: 6,
         like: 44,
@@ -110,7 +110,7 @@ export const Posts = [
     {
         id: 7,
         desc: "Never regret anything that made you smile.",
-        photo: "assets/post/7.jpeg",
+        photo: "post/7.jpeg",
         date: "2 days ago",
         userId: 7,
         like: 52,
@@ -118,7 +118,7 @@ export const Posts = [
     },
     {
         id: 8,
-        photo: "assets/post/8.jpeg",
+        photo: "post/8.jpeg",
         date: "3 days ago",
         userId: 8,
         like: 15,
@@ -127,7 +127,7 @@ export const Posts = [
     {
         id: 9,
         desc: "Change the world by being yourself.",
-        photo: "assets/post/9.jpeg",
+        photo: "post/9.jpeg",
         date: "5 days ago",
         userId: 9,
         like: 11,
@@ -135,7 +135,7 @@ export const Posts = [
     },
     {
         id: 10,
-        photo: "assets/post/10.jpeg",
+        photo: "post/10.jpeg",
         date: "1 week ago",
         userId: 10,
         like: 104,

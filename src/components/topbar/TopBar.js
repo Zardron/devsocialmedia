@@ -7,7 +7,7 @@ export default function Topbar() {
     return (
         <div className="topbarContainer">
             <div className="topbarLeft">
-                <Link to="/timeline" className="logo">Friendster</Link>
+                <Link to="/" className="logo">Friendster</Link>
             </div>
             <div className="topbarCenter">
                 <div className="searchbar">
@@ -33,7 +33,7 @@ export default function Topbar() {
                         <span className="topbarIconBadge">1</span>
                     </div>
                 </div>
-                <Link to="/profile">
+                <Link to="/profile/Zardron Angelo Pesquera">
                     <img src="https://scontent.fceb1-1.fna.fbcdn.net/v/t1.6435-9/142669317_3952058088190889_731493683874102058_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEBJ2vfscHS7wYsGyFpns0dxHOVdDpccRbEc5V0OlxxFhdy8eKJHSoXs0JYg-NCxOlLlA4Pn5TaXjo769_iZgHV&_nc_ohc=4it4xL53lD4AX9dtj3U&_nc_ht=scontent.fceb1-1.fna&oh=0f404194652956cdee1ec307231aca66&oe=60C5AF5F" alt="" className="topbarImg" />
                 </Link>
             </div>

@@ -20,7 +20,7 @@ export default function Register() {
                         <input placeholder="Password Again" className="loginInput" />
                         <button className="loginButton">Sign Up</button>
                         <hr />
-                        <Link to="/" className="registerButton">
+                        <Link to="/login" className="registerButton">
                             Log into Account
                         </Link>
                     </div>
